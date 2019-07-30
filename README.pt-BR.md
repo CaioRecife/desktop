@@ -35,9 +35,7 @@ Quer testar novas funcionalidades antes de todo mundo?, instale o canal beta par
 
 ### Laçamentos da Comunidade
 
-Existe vários package managers que podem ser usados para instalar o GitHub Desktop
-
-install GitHub Desktop:
+Existe vários package managers que podem ser usados para instalar o GitHub Desktop:
  - Usuários de Windows pode instalar usando [Chocolatey](https://chocolatey.org/) package manager:
       `c:\> choco install github-desktop`
  - Usuários de macOS pode instalar usando [Homebrew](https://brew.sh/) package manager:
