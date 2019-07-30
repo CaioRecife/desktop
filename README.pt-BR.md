@@ -22,8 +22,6 @@ Baixe o instalador oficial para seu sistema operacional:
 
 Você pode instalar ao lado do seu Atual GitHub Desktop
 
-**NOTA**: não há caminho de migração atual para importar seus repositórios existentes para o novo aplicativo - você pode arrastar e soltar seus repositórios do disco para o aplicativo para começar.
-
 ### Canal Beta
 
 Quer testar novas funcionalidades antes de todo mundo?, instale o canal beta para obter acesso antecipado as versões do GitHub Desktop
@@ -47,13 +45,13 @@ Usuários do Arch Linux pode instalar a última versão no
 
 ## O GitHub Desktop é adequado para mim? Quais são as principais áreas de enfoque?
 
-[Este documento](https://github.com/desktop/desktop/blob/development/docs/process/what-is-desktop.md) descreve o foco do GitHub Desktop e para quem o produto é mais útil.
+[Este documento](https://github.com/desktop/desktop/blob/development/docs/process/what-is-desktop.md) descreve a utilidade e o foco do GitHub Desktop
 
 E para ver no que a equipe está trabalhando atualmente e no futuro próximo, confira [GitHub Desktop roadmap](https://github.com/desktop/desktop/blob/development/docs/process/roadmap.md).
 
 ## Eu tenho um problema com GitHub Desktop
 
-Nota: The [GitHub Desktop Code of Conduct](https://github.com/desktop/desktop/blob/development/CODE_OF_CONDUCT.md) aplica-se a todas as interações relacionadas ao projeto GitHub Desktop.
+Nota: O [Código de conduta do GitHub Desktop](https://github.com/desktop/desktop/blob/development/CODE_OF_CONDUCT.md) aplica-se a todas as interações relacionadas ao projeto GitHub Desktop.
 
 Primeiro, por favor pesquise as [open issues](https://github.com/desktop/desktop/issues?q=is%3Aopen)
 e [closed issues](https://github.com/desktop/desktop/issues?q=is%3Aclosed)
