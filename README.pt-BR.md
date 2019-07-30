@@ -7,9 +7,9 @@
 [![license](https://img.shields.io/github/license/desktop/desktop.svg?style=flat-square)](https://github.com/desktop/desktop/blob/development/LICENSE)
 ![90+% TypeScript](https://img.shields.io/github/languages/top/desktop/desktop.svg?style=flat-square&colorB=green)
 
-GitHub Desktop é uma aplicação de codigo aberto [Electron](https://electron.atom.io)-based
+GitHub Desktop é uma aplicação de codigo aberto baseado em [Electron](https://electron.atom.io)
 GitHub app. É escrito em [TypeScript](http://www.typescriptlang.org) e
-uses [React](https://facebook.github.io/react/).
+usuários de [React](https://facebook.github.io/react/).
 
 ![GitHub Desktop screenshot - Windows](https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png)
 
@@ -86,12 +86,6 @@ Veja [desktop.github.com](https://desktop.github.com) para mais orientações e 
 
 **[MIT](LICENSE)**
 
-The MIT license grant is not for GitHub's trademarks, which include the logo
-designs. GitHub reserves all trademark and copyright rights in and to all
-GitHub trademarks. GitHub's logos include, for instance, the stylized
-Invertocat designs that include "logo" in the file title in the following
-folder: [logos](app/static/logos).
+A concessão de licença do MIT não é para marcas registradas do GitHub, que incluem os designs de logo. O GitHub reserva todos os direitos de marca e direitos autorais em todas as marcas registradas do GitHub. Os logotipos do GitHub incluem, por exemplo, os designs estilizados do Invertocat que incluem "logo" no título do arquivo na seguinte pasta: [logos](app/static/logos).
 
-GitHub® and its stylized versions and the Invertocat mark are GitHub's
-Trademarks or registered Trademarks. When using GitHub's logos, be sure to
-follow the GitHub [logo guidelines](https://github.com/logos).
+O GitHub® e suas versões estilizadas e a marca Invertocat são marcas comerciais ou marcas comerciais registradas do GitHub. Ao usar os logotipos do GitHub, siga o GitHub [logo guidelines](https://github.com/logos).
