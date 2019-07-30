@@ -47,7 +47,7 @@ Usuários do Arch Linux pode instalar a última versão no
 
 ## O GitHub Desktop é adequado para mim? Quais são as principais áreas de enfoque?
 
-[This document](https://github.com/desktop/desktop/blob/development/docs/process/what-is-desktop.md) descreve o foco do GitHub Desktop e para quem o produto é mais útil.
+[Este documento](https://github.com/desktop/desktop/blob/development/docs/process/what-is-desktop.md) descreve o foco do GitHub Desktop e para quem o produto é mais útil.
 
 E para ver no que a equipe está trabalhando atualmente e no futuro próximo, confira [GitHub Desktop roadmap](https://github.com/desktop/desktop/blob/development/docs/process/roadmap.md).
 
@@ -66,9 +66,9 @@ If you can't find an issue that matches what you're seeing, open a [new issue](h
 choose the right template and provide us with enough information to investigate
 further.
 
-## The issue I reported isn't fixed yet. What can I do?
+## O problema que relatei ainda não está corrigido, O que eu posso fazer?
 
-If nobody has responded to your issue in a few days, you're welcome to respond to it with a friendly ping in the issue. Please do not respond more than a second time if nobody has responded. The GitHub Desktop maintainers are constrained in time and resources, and diagnosing individual configurations can be difficult and time consuming. While we'll try to at least get you pointed in the right direction, we can't guarantee we'll be able to dig too deeply into any one person's issue.
+Se ninguém respondeu ao seu problema dentro de alguns dias, você pode responder a ele com um ping amigável no problema. Por favor, não responda mais de uma segunda vez se ninguém respondeu. Os mantenedores do GitHub Desktop são limitados em tempo e recursos, e o diagnóstico de configurações individuais pode ser difícil e demorado. Embora tentemos pelo menos apontar na direção certa, não podemos garantir que poderemos investigar profundamente o problema de qualquer pessoa.
 
 ## Como eu posso contribuir para o GitHub Desktop?
 
