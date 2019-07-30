@@ -22,9 +22,7 @@ Baixe o instalador oficial para seu sistema operacional:
 
 Você pode instalar ao lado do seu Atual GitHub Desktop
 
-**NOTA**: there is no current migration path to import your existing
-repositories into the new application - you can drag-and-drop your repositories
-from disk onto the application to get started.
+**NOTA**: não há caminho de migração atual para importar seus repositórios existentes para o novo aplicativo - você pode arrastar e soltar seus repositórios do disco para o aplicativo para começar.
 
 ### Canal Beta
 
@@ -47,15 +45,15 @@ Instaladores para várias distros Linux podem ser encontrados no
 Usuários do Arch Linux pode instalar a última versão no
 [AUR](https://aur.archlinux.org/packages/github-desktop-bin/).
 
-## Is GitHub Desktop right for me? What are the primary areas of focus?
+## O GitHub Desktop é adequado para mim? Quais são as principais áreas de enfoque?
 
-[This document](https://github.com/desktop/desktop/blob/development/docs/process/what-is-desktop.md) describes the focus of GitHub Desktop and who the product is most useful for.
+[This document](https://github.com/desktop/desktop/blob/development/docs/process/what-is-desktop.md) descreve o foco do GitHub Desktop e para quem o produto é mais útil.
 
-And to see what the team is working on currently and in the near future, check out the [GitHub Desktop roadmap](https://github.com/desktop/desktop/blob/development/docs/process/roadmap.md).
+E para ver no que a equipe está trabalhando atualmente e no futuro próximo, confira [GitHub Desktop roadmap](https://github.com/desktop/desktop/blob/development/docs/process/roadmap.md).
 
 ## Eu tenho um problema com GitHub Desktop
 
-Note: The [GitHub Desktop Code of Conduct](https://github.com/desktop/desktop/blob/development/CODE_OF_CONDUCT.md) applies in all interactions relating to the GitHub Desktop project.
+Nota: The [GitHub Desktop Code of Conduct](https://github.com/desktop/desktop/blob/development/CODE_OF_CONDUCT.md) applies in all interactions relating to the GitHub Desktop project.
 
 Primeiro, por favor pesquise as [open issues](https://github.com/desktop/desktop/issues?q=is%3Aopen)
 e [closed issues](https://github.com/desktop/desktop/issues?q=is%3Aclosed)
