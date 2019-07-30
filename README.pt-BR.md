@@ -22,19 +22,18 @@ Baixe o instalador oficial para seu sistema operacional:
 
 Você pode instalar ao lado do seu Atual GitHub Desktop
 
-**NOTE**: there is no current migration path to import your existing
+**NOTA**: there is no current migration path to import your existing
 repositories into the new application - you can drag-and-drop your repositories
 from disk onto the application to get started.
 
-### Beta Channel
+### Canal Beta
 
-Want to test out new features and get fixes before everyone else? Install the
-beta channel to get access to early builds of Desktop:
+Quer testar novas funcionalidades antes de todo mundo?, instale o canal beta para obter acesso antecipado as versões do GitHub Desktop
 
  - [macOS](https://central.github.com/deployments/desktop/desktop/latest/darwin?env=beta)
  - [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32?env=beta)
 
-### Community Releases
+### Laçamentos da Comunidade
 
 There are several community-supported package managers that can be used to
 install GitHub Desktop:
@@ -55,11 +54,11 @@ Arch Linux users can install the latest version from the
 
 And to see what the team is working on currently and in the near future, check out the [GitHub Desktop roadmap](https://github.com/desktop/desktop/blob/development/docs/process/roadmap.md).
 
-## I have a problem with GitHub Desktop
+## Eu tenho um problema com GitHub Desktop
 
 Note: The [GitHub Desktop Code of Conduct](https://github.com/desktop/desktop/blob/development/CODE_OF_CONDUCT.md) applies in all interactions relating to the GitHub Desktop project.
 
-First, please search the [open issues](https://github.com/desktop/desktop/issues?q=is%3Aopen)
+Primeiro, por favor pesquise [open issues](https://github.com/desktop/desktop/issues?q=is%3Aopen)
 and [closed issues](https://github.com/desktop/desktop/issues?q=is%3Aclosed)
 to see if your issue hasn't already been reported (it may also be fixed).
 
@@ -76,7 +75,7 @@ If nobody has responded to your issue in a few days, you're welcome to respond t
 
 ## Como eu posso contribuir para o GitHub Desktop?
 
-A [CONTRIBUTING.md](./.github/CONTRIBUTING.md) document will help you get setup and
+O Documento [CONTRIBUTING.md](./.github/CONTRIBUTING.md) will help you get setup and
 familiar with the source. The [documentation](docs/) folder also contains more
 resources relevant to the project.
 
@@ -86,7 +85,7 @@ If you're looking for something to work on, check out the [help wanted](https://
 
 Veja [desktop.github.com](https://desktop.github.com) para mais orientações e informações sobre GitHub Desktop.
 
-## License
+## Licença
 
 **[MIT](LICENSE)**
 
