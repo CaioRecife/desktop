@@ -8,7 +8,7 @@
 ![90+% TypeScript](https://img.shields.io/github/languages/top/desktop/desktop.svg?style=flat-square&colorB=green)
 
 GitHub Desktop é uma aplicação de codigo aberto [Electron](https://electron.atom.io)-based
-GitHub app. É escrito em [TypeScript](http://www.typescriptlang.org) and
+GitHub app. É escrito em [TypeScript](http://www.typescriptlang.org) e
 uses [React](https://facebook.github.io/react/).
 
 ![GitHub Desktop screenshot - Windows](https://cloud.githubusercontent.com/assets/359239/26094502/a1f56d02-3a5d-11e7-8799-23c7ba5e5106.png)
@@ -20,9 +20,7 @@ Baixe o instalador oficial para seu sistema operacional:
  - [Windows](https://central.github.com/deployments/desktop/desktop/latest/win32)
  - [Windows machine-wide install](https://central.github.com/deployments/desktop/desktop/latest/win32?format=msi)
 
-Você pode baixar 
-You can install this alongside your existing GitHub Desktop for Mac or GitHub
-Desktop for Windows application.
+Você pode instalar ao lado do seu Atual GitHub Desktop
 
 **NOTE**: there is no current migration path to import your existing
 repositories into the new application - you can drag-and-drop your repositories
@@ -76,18 +74,17 @@ further.
 
 If nobody has responded to your issue in a few days, you're welcome to respond to it with a friendly ping in the issue. Please do not respond more than a second time if nobody has responded. The GitHub Desktop maintainers are constrained in time and resources, and diagnosing individual configurations can be difficult and time consuming. While we'll try to at least get you pointed in the right direction, we can't guarantee we'll be able to dig too deeply into any one person's issue.
 
-## How can I contribute to GitHub Desktop?
+## Como eu posso contribuir para o GitHub Desktop?
 
-The [CONTRIBUTING.md](./.github/CONTRIBUTING.md) document will help you get setup and
+A [CONTRIBUTING.md](./.github/CONTRIBUTING.md) document will help you get setup and
 familiar with the source. The [documentation](docs/) folder also contains more
 resources relevant to the project.
 
 If you're looking for something to work on, check out the [help wanted](https://github.com/desktop/desktop/issues?q=is%3Aissue+is%3Aopen+label%3A%22help%20wanted%22) label.
 
-## More Resources
+## Mais Informações
 
-See [desktop.github.com](https://desktop.github.com) for more product-oriented
-information about GitHub Desktop.
+Veja [desktop.github.com](https://desktop.github.com) para mais orientações e informações sobre GitHub Desktop.
 
 ## License
 
