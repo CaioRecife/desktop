@@ -35,17 +35,18 @@ Quer testar novas funcionalidades antes de todo mundo?, instale o canal beta par
 
 ### Laçamentos da Comunidade
 
-There are several community-supported package managers that can be used to
+Existe vários package managers que podem ser usados para instalar o GitHub Desktop
+
 install GitHub Desktop:
- - Windows users can install using [Chocolatey](https://chocolatey.org/) package manager:
+ - Usuários de Windows pode instalar usando [Chocolatey](https://chocolatey.org/) package manager:
       `c:\> choco install github-desktop`
- - macOS users can install using [Homebrew](https://brew.sh/) package manager:
+ - Usuários de macOS pode instalar usando [Homebrew](https://brew.sh/) package manager:
       `$ brew cask install github`
 
-Installers for various Linux distributions can be found on the
+Instaladores para várias distros Linux podem ser encontrados no
 [`shiftkey/desktop`](https://github.com/shiftkey/desktop) fork.
 
-Arch Linux users can install the latest version from the
+Usuários do Arch Linux pode instalar a última versão no
 [AUR](https://aur.archlinux.org/packages/github-desktop-bin/).
 
 ## Is GitHub Desktop right for me? What are the primary areas of focus?
@@ -58,8 +59,8 @@ And to see what the team is working on currently and in the near future, check o
 
 Note: The [GitHub Desktop Code of Conduct](https://github.com/desktop/desktop/blob/development/CODE_OF_CONDUCT.md) applies in all interactions relating to the GitHub Desktop project.
 
-Primeiro, por favor pesquise [open issues](https://github.com/desktop/desktop/issues?q=is%3Aopen)
-and [closed issues](https://github.com/desktop/desktop/issues?q=is%3Aclosed)
+Primeiro, por favor pesquise as [open issues](https://github.com/desktop/desktop/issues?q=is%3Aopen)
+e [closed issues](https://github.com/desktop/desktop/issues?q=is%3Aclosed)
 to see if your issue hasn't already been reported (it may also be fixed).
 
 There is also a list of [known issues](https://github.com/desktop/desktop/blob/development/docs/known-issues.md)
