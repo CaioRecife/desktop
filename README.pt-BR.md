@@ -53,18 +53,17 @@ E para ver no que a equipe está trabalhando atualmente e no futuro próximo, co
 
 ## Eu tenho um problema com GitHub Desktop
 
-Nota: The [GitHub Desktop Code of Conduct](https://github.com/desktop/desktop/blob/development/CODE_OF_CONDUCT.md) applies in all interactions relating to the GitHub Desktop project.
+Nota: The [GitHub Desktop Code of Conduct](https://github.com/desktop/desktop/blob/development/CODE_OF_CONDUCT.md) aplica-se a todas as interações relacionadas ao projeto GitHub Desktop.
 
 Primeiro, por favor pesquise as [open issues](https://github.com/desktop/desktop/issues?q=is%3Aopen)
 e [closed issues](https://github.com/desktop/desktop/issues?q=is%3Aclosed)
-to see if your issue hasn't already been reported (it may also be fixed).
+para ver se o seu problema ainda não foi relatado (também pode ser corrigido).
 
-There is also a list of [known issues](https://github.com/desktop/desktop/blob/development/docs/known-issues.md)
-that are being tracked against Desktop, and some of these issues have workarounds.
+Há também uma lista de [known issues](https://github.com/desktop/desktop/blob/development/docs/known-issues.md)
+que estão sendo rastreados em relação ao Desktop e alguns desses problemas têm soluções alternativas.
 
-If you can't find an issue that matches what you're seeing, open a [new issue](https://github.com/desktop/desktop/issues/new/choose),
-choose the right template and provide us with enough information to investigate
-further.
+Se você não encontrar um problema que corresponda ao que está vendo, abra um [new issue](https://github.com/desktop/desktop/issues/new/choose),
+escolha o modelo certo e forneça informações suficientes para investigar mais.
 
 ## O problema que relatei ainda não está corrigido, O que eu posso fazer?
 
@@ -72,11 +71,9 @@ Se ninguém respondeu ao seu problema dentro de alguns dias, você pode responde
 
 ## Como eu posso contribuir para o GitHub Desktop?
 
-O Documento [CONTRIBUTING.md](./.github/CONTRIBUTING.md) will help you get setup and
-familiar with the source. The [documentation](docs/) folder also contains more
-resources relevant to the project.
+O Documento [CONTRIBUTING.md](./.github/CONTRIBUTING.md) irá ajudá-lo a configurar e familiarizar-se com a fonte. A [documentação](docs/) A pasta contém também mais recursos relevantes para o projeto.
 
-If you're looking for something to work on, check out the [help wanted](https://github.com/desktop/desktop/issues?q=is%3Aissue+is%3Aopen+label%3A%22help%20wanted%22) label.
+Se você está procurando algo para trabalhar, confira [help wanted](https://github.com/desktop/desktop/issues?q=is%3Aissue+is%3Aopen+label%3A%22help%20wanted%22) label.
 
 ## Mais Informações
 
